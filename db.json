@@ -1,16 +1,35 @@
 {
-  "posts":[
+  "pizzas":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "size": "small",
+      "cheese": "mozzarella",
+      "name" : "Margherita"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id" : 1,
+      "size": "medium",
+      "cheese": "ricotta",
+      "name" : "Broccoli Ricotta"
+    },
+    {
+      "id" : 2,
+      "size": "medium",
+      "cheese": "mozzarella",
+      "name" : "Meat Lovers"
+    },
+    {
+      "id" : 3,
+      "size": "large",
+      "cheese": "fontina",
+      "name" : "Roasted Garlic and Tomato"
+    },
+    {
+      "id" : 4,
+      "size": "large",
+      "cheese":  "mozzarella",
+      "name" : "Buffalo Chicken"
     }
   ]
+  
 }
