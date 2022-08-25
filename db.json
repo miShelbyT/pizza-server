@@ -1,35 +1,40 @@
 {
-  "pizzas":[
+  "pizzas": [
     {
-      "id" : 0,
+      "id": 1,
       "size": "small",
       "cheese": "mozzarella",
-      "name" : "Margherita"
+      "name": "Margherita"
     },
     {
-      "id" : 1,
+      "id": 2,
       "size": "medium",
       "cheese": "ricotta",
-      "name" : "Broccoli Ricotta"
+      "name": "Broccoli Ricotta"
     },
     {
-      "id" : 2,
+      "id": 3,
       "size": "medium",
       "cheese": "mozzarella",
-      "name" : "Meat Lovers"
+      "name": "Meat Lovers"
     },
     {
-      "id" : 3,
+      "id": 4,
       "size": "large",
       "cheese": "fontina",
-      "name" : "Roasted Garlic and Tomato"
+      "name": "Roasted Garlic and Tomato"
     },
     {
-      "id" : 4,
+      "id": 5,
       "size": "large",
-      "cheese":  "mozzarella",
-      "name" : "Buffalo Chicken"
+      "cheese": "mozzarella",
+      "name": "Buffalo Chicken"
+    },
+    {
+      "id": 6,
+      "size": "medium",
+      "cheese": "none",
+      "name": "Spinach Artichoke"
     }
   ]
-  
 }
