@@ -4,37 +4,43 @@
       "id": 1,
       "size": "small",
       "cheese": "mozzarella",
-      "name": "Margherita"
+      "name": "Margherita",
+      "price": 30
     },
     {
       "id": 2,
       "size": "medium",
       "cheese": "ricotta",
-      "name": "Broccoli Ricotta"
+      "name": "Broccoli Ricotta",
+      "price": 37
     },
     {
       "id": 3,
       "size": "medium",
       "cheese": "mozzarella",
-      "name": "Meat Lovers"
+      "name": "Meat Lovers",
+      "price": 40
     },
     {
       "id": 4,
       "size": "large",
       "cheese": "fontina",
-      "name": "Roasted Garlic and Tomato"
+      "name": "Roasted Garlic and Tomato",
+      "price": 45
     },
     {
       "id": 5,
       "size": "large",
       "cheese": "mozzarella",
-      "name": "Buffalo Chicken"
+      "name": "Buffalo Chicken",
+      "price": 40
     },
     {
       "id": 6,
       "size": "medium",
       "cheese": "none",
-      "name": "Spinach Artichoke"
+      "name": "Spinach Artichoke",
+      "price": 40
     }
   ]
 }
